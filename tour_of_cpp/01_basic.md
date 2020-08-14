@@ -4,6 +4,9 @@ tags: C++
 
 # 1 基本概念
 
+[![hackmd-github-sync-badge](https://hackmd.io/UkLiREP7Q_mKgI6Pun58YQ/badge)](https://hackmd.io/UkLiREP7Q_mKgI6Pun58YQ)
+
+
 ## 變數
 
 很長的數字可以用單引號讓他比較好閱讀，例如 $\pi$ 的數值可以寫成
