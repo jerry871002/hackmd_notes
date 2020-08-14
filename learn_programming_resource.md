@@ -4,6 +4,9 @@ tags: Python
 
 # 學寫程式的地方
 
+[![hackmd-github-sync-badge](https://hackmd.io/cG_a0ImIQVaXn-b9ssGZBg/badge)](https://hackmd.io/cG_a0ImIQVaXn-b9ssGZBg)
+
+
 ## 教學網站
 * [Codecademy](https://www.codecademy.com/)
 有很多不同程式語言跟主題可以學，我之前玩的時候大部分主題都是免費的，不過現在好像很多都要錢。以 `Python` 來說，`Python 3` 的單元比較實用但**要錢**，逐漸要被淘汰的 `Python 2` 才是**免費**的。
