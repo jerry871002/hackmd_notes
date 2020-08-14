@@ -27,12 +27,37 @@ Topic 是 Node 之間溝通的管道，Node 可以 Publish 來發送資料，Sub
 
 ## Services
 
-Service 是另一種 Node 之間溝通的方法
+Service 是另一種 Node 之間溝通的方法，Service 只在明確跟他 request 時才會傳資料給你
 
-跟 Topic 的比較
+### 跟 Topic 的比較
 
 |         Service         |              Topic               |
 |:-----------------------:|:--------------------------------:|
 | call-and-response model |    publisher-subscriber model    |
 |   要呼叫才會提供資料       | Subscribe 後可以接收連續性的資料 |
+
+### Commands
+* `ros2 service list`
+* `ros2 service type <service_name>`
+* `ros2 service list -t`
+* `ros2 service find <type_name>`
+* `ros2 interface show <type_name>.srv`
+* `ros2 service call <service_name> <service_type> <arguments>`
+
+### Related Content
+
+另一個 [Tutorial](https://discourse.ubuntu.com/t/call-services-in-ros-2/15261)，用一個機器手臂來實際應用 Service
+
+
+## Parameters
+
+主要拿來設定 Node 的組態（configuration），Parameters 可以是 `integers`、`floats`、`booleans`、`strings` 或 `lists`
+
+### Commands
+* `ros2 param list`
+* `ros2 param get <node_name> <parameter_name>`
+* `ros2 param set <node_name> <parameter_name> <value>`
+* `ros2 param dump <node_name>`
+* `ros2 run <package_name> <executable_name> --ros-args --params-file <file_name>`
+> Parameters 是用 `YAML` 格式儲存
 
