@@ -4,6 +4,9 @@ tags: ROS 2
 
 # ROS 2 Concepts
 
+[![hackmd-github-sync-badge](https://hackmd.io/acmkN6_8T_uOOUFzX-TRBQ/badge)](https://hackmd.io/acmkN6_8T_uOOUFzX-TRBQ)
+
+
 ## Nodes
 
 Node 可以看成一個一個模組，模組之間互動的機制就是 ROS 主要的功能
