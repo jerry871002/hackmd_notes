@@ -1,8 +1,9 @@
 ---
 tags: ROS 2
+GA: UA-150355160-2
 ---
 
-# ROS 2 Concepts
+# ROS 2 - Concepts
 
 [![hackmd-github-sync-badge](https://hackmd.io/acmkN6_8T_uOOUFzX-TRBQ/badge)](https://hackmd.io/acmkN6_8T_uOOUFzX-TRBQ)
 
@@ -50,6 +51,12 @@ Topic 是 Node 之間溝通的管道，Node 可以 Publish 來發送資料，Sub
 ## Services
 
 Service 是另一種 Node 之間溝通的方法，Service 只在明確跟他 request 時才會傳資料給你
+
+![Services](https://index.ros.org/doc/ros2/_images/Service-SingleServiceClient.gif)
+
+可以有多個 Service client 但只能有一個 Service server
+
+![Services](https://index.ros.org/doc/ros2/_images/Service-MultipleServiceClient.gif)
 
 ### 跟 Topic 的比較
 
