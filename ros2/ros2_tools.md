@@ -5,6 +5,9 @@ GA: UA-150355160-2
 
 # ROS 2 - Tools
 
+[![hackmd-github-sync-badge](https://hackmd.io/GT6CSX9HRCGPm9P09iGB1g/badge)](https://hackmd.io/GT6CSX9HRCGPm9P09iGB1g)
+
+
 ## rqt_graph
 拿來觀察 Node 跟 Topic 之間的關係，[前一篇](/acmkN6_8T_uOOUFzX-TRBQ)有提到
 
