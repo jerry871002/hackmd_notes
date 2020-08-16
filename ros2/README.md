@@ -12,9 +12,9 @@ GA: UA-150355160-2
 
  > [官網 Tutorials 連結](https://index.ros.org/doc/ros2/Tutorials/)
  
-> 底下也有記錄進度，在標題旁邊有註明(已經看了幾篇/共有幾篇)
+> 底下各個標題旁邊有註明進度(已經看了幾篇/共有幾篇)
 > > 最後更新時間
-> > [time=Sun, Aug 16, 2020 10:38 AM] 
+> > [time=Sun, Aug 16, 2020 7:17 PM]
 
 ### Beginner
 
@@ -23,7 +23,9 @@ GA: UA-150355160-2
 * [ROS 2 - Tools](/GT6CSX9HRCGPm9P09iGB1g)
 * [ROS 2 - Launch and Play Back](/uHuAcFJuSaC9XA28irzbNw)
 
-#### Client Libraries (0/11)
+#### Client Libraries (1/11)
+
+* [ROS 2 - Creating a workspace](/wo2LvYsNSmOE74e-ShrTng)
 
 ### Intermediate
 
