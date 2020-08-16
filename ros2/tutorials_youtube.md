@@ -1,16 +1,22 @@
 ---
 tags: ROS 2
+GA: UA-150355160-2
 ---
-# ROS 2 Tutorials
+
+# ROS 2 - Tutorials 
+
+[![hackmd-github-sync-badge](https://hackmd.io/DwaZUt-2Qk6NG-cRO8QigQ/badge)](https://hackmd.io/DwaZUt-2Qk6NG-cRO8QigQ)
+
 
 這些 tutorials 來自[這個 Youtube 播放清單](https://www.youtube.com/watch?v=5DlrkkH3LS4&list=PLK0b4e05LnzYNBzqXNm9vFD9YXWp6honJ)，比較偏向教你一些基本的操作，對觀念的部分沒有著墨太多（跟官網的比起來）
 
 ## How to launch a ROS 2 node
 
 1. 每次開始前都要 `source /opt/ros/crystal/setup.bash` 來設定環境
-2. 指令的格式是 `ros2 run <package_name> <executable_name>`
-3. `<package_name>` 的部分先用 `ros2 pkg list` 檢查有哪些 packages 已經安裝了
-4. `<executable_name>` 的部分用 `ros2 pkg executables` 檢查有哪些可用
+    > ROS 2 有推出新的版本了，source 前要先確定自己用的是哪一個
+3. 指令的格式是 `ros2 run <package_name> <executable_name>`
+4. `<package_name>` 的部分先用 `ros2 pkg list` 檢查有哪些 packages 已經安裝了
+5. `<executable_name>` 的部分用 `ros2 pkg executables` 檢查有哪些可用
    輸出的格式是 `<package_name> <executable_name>`
    一個 package 可以有多個 executable 
 4. 開兩個 terminal
