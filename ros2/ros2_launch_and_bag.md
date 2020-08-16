@@ -5,6 +5,9 @@ GA: UA-150355160-2
 
 # ROS 2 - Launch and Play Back
 
+[![hackmd-github-sync-badge](https://hackmd.io/uHuAcFJuSaC9XA28irzbNw/badge)](https://hackmd.io/uHuAcFJuSaC9XA28irzbNw)
+
+
 ## `ros2 launch`
 
 當 Node 越來越多時，每次都要開一堆 terminal 來啟動跟設定就會變得超級麻煩，這時候就需要 launch file 來幫忙這件事
