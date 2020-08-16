@@ -5,6 +5,9 @@ GA: UA-150355160-2
 
 # ROS 2 - 研究日誌
 
+[![hackmd-github-sync-badge](https://hackmd.io/lQVUtQabRQ-Rrtcpk85R7Q/badge)](https://hackmd.io/lQVUtQabRQ-Rrtcpk85R7Q)
+
+
 ## 官網的 Tutorials
 
  > [官網 Tutorials 連結](https://index.ros.org/doc/ros2/Tutorials/)
