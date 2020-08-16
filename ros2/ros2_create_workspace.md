@@ -5,6 +5,9 @@ GA: UA-150355160-2
 
 # ROS 2 - Creating a workspace
 
+[![hackmd-github-sync-badge](https://hackmd.io/wo2LvYsNSmOE74e-ShrTng/badge)](https://hackmd.io/wo2LvYsNSmOE74e-ShrTng)
+
+
 > A workspace is a directory containing ROS 2 packages
 
 workspace 有分成兩種
