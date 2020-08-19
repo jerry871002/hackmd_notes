@@ -14,7 +14,7 @@ GA: UA-150355160-2
  
 > 底下各個標題旁邊有註明進度(已經看了幾篇/共有幾篇)
 > > 最後更新時間
-> > [time=Sun, Aug 16, 2020 7:17 PM]
+> > [time=Wed, Aug 19, 2020 6:00 PM]
 
 ### Beginner
 
@@ -23,9 +23,13 @@ GA: UA-150355160-2
 * [ROS 2 - Tools](/GT6CSX9HRCGPm9P09iGB1g)
 * [ROS 2 - Launch and Play Back](/uHuAcFJuSaC9XA28irzbNw)
 
-#### Client Libraries (1/11)
+#### Client Libraries (6/11)
 
 * [ROS 2 - Creating a workspace](/wo2LvYsNSmOE74e-ShrTng)
+* [ROS 2 - Creating packages](/SKdyvJewQlKa3ik1_swfKg)
+* [ROS 2 - Publisher and subscriber in C++](/QiJrNvOaTJWJ2nVd8FDBOg)
+* [ROS 2 - Publisher and subscriber in Python](/BO8fTaZ1SPSFu6WedciM4Q)
+* [ROS 2 - Simple service and client](/AaXUv_bxRoKLVUSIuidq2g)
 
 ### Intermediate
 
