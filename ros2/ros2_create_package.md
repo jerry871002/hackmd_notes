@@ -5,6 +5,9 @@ GA: UA-150355160-2
 
 # ROS 2 -  Creating packages
 
+[![hackmd-github-sync-badge](https://hackmd.io/SKdyvJewQlKa3ik1_swfKg/badge)](https://hackmd.io/SKdyvJewQlKa3ik1_swfKg)
+
+
 > A package can be considered a container for your ROS 2 code.
 
 有點像把你做的東西打包起來，這樣才能發佈或是跟別人分享你的成果。ROS 2 使用 **ament** 作為他的 build system；使用 **colcon** 作為他的 build tool。創建一個 package 時可以使用 CMake 或 Python
@@ -250,3 +253,7 @@ setup(
     },
 )
 ```
+
+## Reference
+* [Creating your first ROS 2 package](https://index.ros.org/doc/ros2/Tutorials/Creating-Your-First-ROS2-Package/), ROS Index
+* [Why there are so many ament things in colcon? Will they remain in the future releases?](https://github.com/ros2/ros2/issues/576), GitHub
