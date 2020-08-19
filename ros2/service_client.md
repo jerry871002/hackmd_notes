@@ -5,6 +5,9 @@ GA: UA-150355160-2
 
 # ROS 2 - Simple service and client
 
+[![hackmd-github-sync-badge](https://hackmd.io/AaXUv_bxRoKLVUSIuidq2g/badge)](https://hackmd.io/AaXUv_bxRoKLVUSIuidq2g)
+
+
 如同第一篇 [ROS 2 - Concepts](/acmkN6_8T_uOOUFzX-TRBQ) 裡說的，nodes 之間用 service 溝通時，傳送 request 的是 client node，回覆 response 的則是 service node。而訊息的內容則是由 `.srv` 檔案決定的
 
 因為之前把 C++ 跟 Python 分成兩篇寫覺得有些多餘，這邊就只分成兩個 section 好了
