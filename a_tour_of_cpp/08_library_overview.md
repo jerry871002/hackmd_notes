@@ -4,6 +4,9 @@ tags: A Tour of C++, C++
 
 # 8 程式庫概觀
 
+[![hackmd-github-sync-badge](https://hackmd.io/r5-gYE22SmKeGoXJQMJT4Q/badge)](https://hackmd.io/r5-gYE22SmKeGoXJQMJT4Q)
+
+
 這章只有寫一些介紹而已，我就挑幾個我想記得的點來講就好（大部分是從忠告這個 section 來的）
 
 * 不要重新發明輪子，使用程式庫
