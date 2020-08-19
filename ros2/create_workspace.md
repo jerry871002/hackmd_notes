@@ -12,8 +12,8 @@ GA: UA-150355160-2
 
 workspace 有分成兩種
 
-* overlay：輔助的 workspace，可以在裡面添加新的 packages
-* underlay：安裝 ROS 2 時的主要 workspace
+* **overlay**：輔助的 workspace，可以在裡面添加新的 packages
+* **underlay**：安裝 ROS 2 時的主要 workspace
 
 我們自己寫的東西放在 overlay 裡面，這樣就不會跟 underlay 的東西互相干擾
 
