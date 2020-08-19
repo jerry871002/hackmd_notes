@@ -5,6 +5,9 @@ GA: UA-150355160-2
 
 # ROS 2 -  Publisher and subscriber in C++
 
+[![hackmd-github-sync-badge](https://hackmd.io/QiJrNvOaTJWJ2nVd8FDBOg/badge)](https://hackmd.io/QiJrNvOaTJWJ2nVd8FDBOg)
+
+
 ## Create package
 
 用之前建立的 workspace，到 `src/` 資料夾底下建立 package
