@@ -4,6 +4,8 @@ tags: A Tour of C++, C++
 
 # A Tour of C++ 讀書筆記
 
+[![hackmd-github-sync-badge](https://hackmd.io/XQZZwwsDQ4WHxecroJJO2A/badge)](https://hackmd.io/XQZZwwsDQ4WHxecroJJO2A)
+
 ![A Tour of C++](https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/085/36/0010853667.jpg&v=5e79e139&w=348&h=348)
 
 這邊就是把我讀這本書一些我覺得比較有趣或是沒學過的部分摘錄下來，再加上一些個人的心得跟筆記，應該書上的一章會寫成一篇筆記
