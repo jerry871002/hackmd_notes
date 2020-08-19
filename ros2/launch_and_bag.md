@@ -98,7 +98,7 @@ Topic information: Topic: /turtle1/cmd_vel | Type: geometry_msgs/msg/Twist | Cou
 
 用 `ros2 bag play <bag_file_name>` 來讓系統重現剛剛記錄的東西
 
-### Related content
+## Related content
 
 * [這個 GitHub Repo](https://github.com/ros2/rosbag2) 有對 `ros2 bag` 更詳細的介紹
 * [這篇](https://index.ros.org/doc/ros2/Tutorials/Ros2bag/Overriding-QoS-Policies-For-Recording-And-Playback/#ros2bag-qos-override)則介紹 QoS 跟 `ros2 bag` 之間的關係
