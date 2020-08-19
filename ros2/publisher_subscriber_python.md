@@ -5,6 +5,9 @@ GA: UA-150355160-2
 
 # ROS 2 -  Publisher and subscriber in Python
 
+[![hackmd-github-sync-badge](https://hackmd.io/BO8fTaZ1SPSFu6WedciM4Q/badge)](https://hackmd.io/BO8fTaZ1SPSFu6WedciM4Q)
+
+
 這篇可以跟前一篇 [ROS 2 -  Publisher and subscriber in C++](/QiJrNvOaTJWJ2nVd8FDBOg?both) 對照著看，基本上是要做一模一樣的功能，只是現在用 Python 做而已
 
 因為很多步驟前面都解釋過了，這邊會快速帶過喔
