@@ -4,6 +4,9 @@ tags: A Tour of C++, C++
 
 # 4 類別
 
+[![hackmd-github-sync-badge](https://hackmd.io/ZGmD42D1SyqazNbv7Yaa4Q/badge)](https://hackmd.io/ZGmD42D1SyqazNbv7Yaa4Q)
+
+
 這個章節剛好可以拿來複習之前物件導向學的東西
 
 ## 運算子多載（operator overloading）
