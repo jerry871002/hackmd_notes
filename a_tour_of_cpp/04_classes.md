@@ -285,16 +285,24 @@ bool some_function() {
 ```
 
 :::info
-1. 使用 `unique_ptr` 或 `shared_ptr`（之後會介紹）來取代 `new` 跟 `delete`
+Notes：之前寫資料結構的作業時確實有遇到資源洩漏的問題（雖然我都放著不理他幸好沒出事），不過系統越來越複雜時確實是需要注意，搞不好哪天不小心存取已經刪除的指標系統就掛了
+> 使用 `unique_ptr` 或 `shared_ptr`（之後會介紹）來取代 `new` 跟 `delete`（4.5.3節）
 :::
 
 ## Reference
+
+### Operator Overloading
+* Paul Deitel and Harvey Deitel, “C++ How to Program (late objects version)” Seventh Edition 
+    * Chapter 11: Operator Overloading
+* [為您的自訂類別多載 << 運算子](https://docs.microsoft.com/zh-tw/cpp/standard-library/overloading-the-output-operator-for-your-own-classes?view=vs-2019)，Microsoft
+### Override
 * [Java 什麼是覆寫(Override)](https://matthung0807.blogspot.com/2017/10/java-override.html)，菜鳥工程師 肉豬
 * [In Python, how do I indicate I'm overriding a method?](https://stackoverflow.com/questions/1167617/in-python-how-do-i-indicate-im-overriding-a-method)，Stack Overflow
+### Other
 * [Bitwise Operators in C/C++](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/)，GeeksforGeeks
 * [initializer_list](http://www.cplusplus.com/reference/initializer_list/initializer_list/)，cplusplus.com - The C++ Resources Network
-* [為您的自訂類別多載 << 運算子](https://docs.microsoft.com/zh-tw/cpp/standard-library/overloading-the-output-operator-for-your-own-classes?view=vs-2019)，Microsoft
 * [Determine the type of an object?](https://stackoverflow.com/questions/2225038/determine-the-type-of-an-object)，Stack Overflow
 * [C++ Dynamic cast, is not polymorphic?](https://stackoverflow.com/questions/62408856/c-dynamic-cast-is-not-polymorphic)，Stack Overflow
 * [DAY 3：只能死一次，不能鞭屍，談 std::unique_ptr<T>，卷一](https://ithelp.ithome.com.tw/articles/10213866)，山姆大叔談 C++：從歷史談起，再給個定義—Modern C++ 解惑，iT邦幫忙
+
 
